@@ -1,4 +1,4 @@
-````markdown
+
 # Stock Market Data EDA Project
 
 ## Project Overview
