@@ -27,7 +27,6 @@ To run these notebooks, you need to set up a Python environment with the necessa
    ```bash
    git clone https://github.com/vpattapa/Stock-Market-Analysis-EDA-Python-pandas-DataReader.git
    ```
-````
 
 2. Navigate to the cloned repository directory:
    ```bash
